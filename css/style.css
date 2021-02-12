@@ -1,0 +1,10 @@
+@import './base.css';
+@import "./header.css";
+@import "./hero.css";
+@import "./offers.css";
+@import "./services.css";
+@import "./partners.css";
+@import "./footer.css";
+@import './mobile/style.css';
+
+

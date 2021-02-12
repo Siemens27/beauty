@@ -1,0 +1,12 @@
+.partners{
+    padding: 100px 0 0 0;
+}
+.partners__item{
+    background: #FFFFFF;
+    border-bottom: 1px solid #EFEFEF;
+    border-left: 1px solid #EFEFEF;
+}
+.partners__image{
+    padding: 35px 65px;
+    object-fit: cover;
+}
